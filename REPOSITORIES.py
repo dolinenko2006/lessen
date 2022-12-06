@@ -9,4 +9,9 @@
 
 # git remote add origin https://github.com/dolinenko2006/lessen.git
 # git branch -M main
-# git push -u origin main
+# git push -u origin mainvenv/
+# эти папки и файлы рекомендуют игнорировать:
+# .idea/
+# __pycache__/
+# env/
+# .log
